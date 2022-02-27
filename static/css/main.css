@@ -1,10 +1,10 @@
 body {
   text-align: center;
-  background-color: SlateGrey;
+  background-color: #24606a;
 }
 p {
   color: white;
-  font-family: Shanti;
+  font-family: sans-serif;
   font-size: 1.2em;
   display: inline-block;
   margin: 20px;
@@ -19,23 +19,23 @@ input {
   height: 50px;
   border: none;
   border-radius: 10px;
-  font-family: Shanti;
+  font-family: sans-serif;
   font-size: 1.3em;
   text-align: center;
 }
 
 input:focus {
   outline: none;
-  border: solid 5px #00ffce;
+  border: solid 5px #797979;
 }
 
 #greet {
-  background-color: PaleVioletRed;
+  background-color: #2e858a;
   border: none;
   width: 200px;
   color: white;
 }
 
 #greet:hover {
-  background-color: MediumVioletRed;
+  background-color: rgb(51, 196, 15);
 }
